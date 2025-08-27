@@ -1,27 +1,63 @@
-<h1 align="left">Olá, Pessoal! 👋 </h1>
+<div align="center">
+  <a href="https://github.com/JanainaMmeira">
+    <img src="http://googleusercontent.com/image_generation_content/0" alt="Banner para perfil do GitHub" />
+  </a>
+</div>
 
-# Estudante em Desenvolvimento Web 🌱
+<div align="center">
+  <h1 align="center">Olá, eu sou a Janaína Meira! 👋</h1>
+ 
+</div>
 
-Estou no início da minha jornada no mundo do desenvolvimento front-end, focado em aprender **HTML** e **CSS**. Meu objetivo é criar interfaces web acessíveis, responsivas e bem estruturadas.
+<div align="center">
+  <h3>✨ Desenvolvedora | Entusiasta de tecnologia | Aprendiz contínua ✨</h3>
+</div>
 
-Acredito que a base sólida é essencial para qualquer projeto, então estou dedicando meu tempo para dominar os fundamentos antes de avançar para tecnologias mais complexas.
+---
+### 🚀 Sobre Mim
 
-## Minhas Metas Atuais:
+Sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficientes. Com foco em Front End (Desenvolvimento Web, adoro transformar ideias em código funcional e visualmente agradável.
 
-- Praticar semântica e acessibilidade com HTML5;
-- Aprimorar layouts com CSS3 (flexbox, grid e responsividade);
-- Resolver pequenos desafios para melhorar minha lógica e atenção aos detalhes.
+Atualmente, estou estudando HTML + CSS + JavaScript e sempre em busca de novos desafios e oportunidades de crescimento.
 
+---
+
+### 🛠️ Minhas Habilidades e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" />
+</div>
+
+<br>
+
+<p align="center">
+  Sinta-se à vontade para explorar meus repositórios e projetos! 
+</p>
+
+---
 ## Projetos Recentes:
 
 Confira alguns dos meus projetos iniciais no repositório. Eles são simples, mas cada um foi uma oportunidade de aprendizado!
 
 [Ver Projetos](https://github.com/JanainaMmeira?tab=repositories)
 
-## Vamos Conectar?
+---
+### 🌐 Conecte-se Comigo
 
-Se você também está aprendendo ou já é experiente na área, ficarei feliz em trocar ideias, dicas e feedbacks. Juntos podemos crescer! 😊
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janainammeira)
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janainamcamara@hotmail.com)
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white)](https://github.com/JanainaMmeira)
+  
+</div>
 
-Você pode me encontrar em:
+---
+### 📊 Estatísticas do GitHub
 
-- [LinkedIn](https://www.linkedin.com/in/janaína-moreira-meira-ab1674a5/)  
+<div align="center">
+<a href="https://www.linkedin.com/in/janainammeira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:janainamcamara@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://JanainaMmeira"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" /></a>
+</div>
