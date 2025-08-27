@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://github.com/JanainaMmeira">
-    <img src="http://googleusercontent.com/image_generation_content/0" alt="Banner para perfil do GitHub" />
-  </a>
-</div>
-
-<div align="center">
   <h1 align="center">Olá, eu sou a Janaína Meira! 👋</h1>
  
 </div>
