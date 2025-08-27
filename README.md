@@ -1,22 +1,28 @@
 <div align="center">
-  <h1 align="center">Olá, eu sou a Janaína Meira! 👋</h1>
- 
-</div>
-
-<div align="center">
-  <h3>✨ Desenvolvedora | Entusiasta de tecnologia | Aprendiz contínua ✨</h3>
+  <h1 align="center">Olá, eu sou a Jana! 👋</h1>
+  <p>
+    🚀 Desenvolvedora Front-End em formação <br>
+    🌱 Apaixonada por tecnologia, design e aprendizado contínuo <br>
+    🎯 Objetivo: criar experiências digitais que façam a diferença
+  </p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif" />
 </div>
 
 ---
-### 🚀 Sobre Mim
 
-Sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficientes. Com foco em Front End (Desenvolvimento Web, adoro transformar ideias em código funcional e visualmente agradável.
+## 🧭 Minha Jornada
 
-Atualmente, estou estudando HTML + CSS + JavaScript e sempre em busca de novos desafios e oportunidades de crescimento.
+✨ Sempre gostei de aprender coisas novas e encontrei na programação um universo infinito de possibilidades.  
+Aqui está um pouco do meu caminho até agora:
 
+- 🎨 **Primeiros passos:** HTML + CSS (criando páginas estáticas)  
+- ⚡ **Explorando interatividade:** JavaScript (dando vida às ideias)  
+- 🔗 **Colaboração e versionamento:** Git & GitHub  
+- 🎨 **Design e prototipagem:** Figma  
+- 🚀 **Próximos passos:** React.js & APIs  
 ---
 
-### 🛠️ Minhas Habilidades e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" />
@@ -29,26 +35,37 @@ Atualmente, estou estudando HTML + CSS + JavaScript e sempre em busca de novos d
 </p>
 
 ---
-## Projetos Recentes:
+## 📂 Projetos em Destaque
 
-Confira alguns dos meus projetos iniciais no repositório. Eles são simples, mas cada um foi uma oportunidade de aprendizado!
+🔹 Confira alguns dos meus repositórios — cada projeto representa um passo importante na minha jornada como desenvolvedora:  
 
-[Ver Projetos](https://github.com/JanainaMmeira?tab=repositories)
+👉 [Meus Projetos](https://github.com/JanainaMmeira?tab=repositories)
 
 ---
 ### 🌐 Conecte-se Comigo
 
 <div align="center">
-<a href="https://www.linkedin.com/in/janainammeira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:janainamcamara@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://JanainaMmeira"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/janainammeira">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:janainamcamara@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://JanainaMmeira">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </div>
 
 ---
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JanainaMmeira&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanainaMmeira&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JanainaMmeira&theme=tokyonight&hide_border=true" alt="Estatísticas de streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JanainaMmeira&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanainaMmeira&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanainaMmeira&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+
+<div align="center">
+  <h3>💡 "Cada linha de código é um passo rumo ao futuro que quero construir." 💡</h3>
 </div>
